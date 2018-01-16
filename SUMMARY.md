@@ -35,7 +35,18 @@
   * [几何着色器](04 Advanced OpenGL/09 Geometry Shader.md)
   * [实例化](04 Advanced OpenGL/10 Instancing.md)
   * [抗锯齿](04 Advanced OpenGL/11 Anti Aliasing.md)
-
+* [高级光照](05 Advanced Lighting/01 Advanced Lighting.md)
+  * [高级光照](05 Advanced Lighting/01 Advanced Lighting.md)
+  * [Gamma校正](05 Advanced Lighting/02 Gamma Correction.md)
+  * [阴影映射](05 Advanced Lighting/03 Shadows/01 Shadow Mapping.md)
+  * [点光源阴影](05 Advanced Lighting/03 Shadows/02 Point Shadows.md)
+  * [CSM](05 Advanced Lighting/03 Shadows/03 CSM.md)
+  * [法线贴图](05 Advanced Lighting/04 Normal Mapping.md)
+  * [视差贴图](05 Advanced Lighting/05 Parallax Mapping.md)
+  * [HDR](05 Advanced Lighting/06 HDR.md)
+  * [泛光](05 Advanced Lighting/07 Bloom.md)
+  * [延迟着色法](05 Advanced Lighting/08 Deferred Shading.md)
+  * [SSAO](05 Advanced Lighting/09 SSAO.md)
 
 
 
