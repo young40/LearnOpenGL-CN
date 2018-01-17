@@ -47,8 +47,8 @@
   * [泛光](05 Advanced Lighting/07 Bloom.md)
   * [延迟着色法](05 Advanced Lighting/08 Deferred Shading.md)
   * [SSAO](05 Advanced Lighting/09 SSAO.md)
-
-
-
-
-
+* [PBR](07 PBR/01 Theory.md)
+  * [理论](07 PBR/01 Theory.md)
+  * [光照](07 PBR/02 Lighting.md)
+  * [漫反射辐照](07 PBR/03 IBL/01 Diffuse irradiance.md)
+  * [镜面IBL](07 PBR/03 IBL/02 Specular IBL.md)
